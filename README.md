@@ -1,6 +1,6 @@
 # InMemoryDB
 
--Steps to properly setup and run the code: 
+- Steps to properly setup and run the code: 
 1. Clone the repository, for example using: git clone <repository-url>
 2. Navigate to the project directory on your terminal
 3. Compile and run the code as needed using commands such as: javac Main.java && java Main
